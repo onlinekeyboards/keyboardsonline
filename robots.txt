@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onlinekeyboards.github.io/keyboardsonline/sitemap.xml
